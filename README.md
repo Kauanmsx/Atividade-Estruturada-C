@@ -1,4 +1,4 @@
-**# Atividade Estruturada 4 — Filas Sequenciais em C
+# Atividade Estruturada 4 — Filas Sequenciais em C
 
 Implementação dos quatro exercícios propostos na Atividade Estruturada 4, abordando filas sequenciais simples e filas sequenciais circulares na linguagem C.
 
@@ -139,7 +139,13 @@ Fila A:   a B z
 
 ---
 
-## Disciplina
+## Informações do aluno
 
-Estruturas de Dados — Atividade Estruturada 4
-**
+| | |
+|---|---|
+| **Aluno** | Kauan Marinho |
+| **Curso** | Análise e Desenvolvimento de Sistemas |
+| **Professor** | Nirton Afonso |
+| **Disciplina** | Estruturas de Dados |
+| **Atividade** | Atividade Estruturada 4 — Filas Sequenciais |
+
